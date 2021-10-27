@@ -1,10 +1,11 @@
 
 
 ## Hey, I'm Tushar!  👋 
+* Tech Enthusiast | Web Developer
 * I'm a EE Sophomore at NIT Bhopal
 * Currently I'm working on my Frontend web development skills and intrested to learn Backend web development
 * I also enjoy Problem solving and Competitive programming
-
+* Hobbies : Reading Books 📗📕 | Music 🎧
 ### To know more about me :smile:
 * [LinkedIn](https://www.linkedin.com/in/tushar-gehlot-50502420a/)
 
