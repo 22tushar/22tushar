@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**22tushar/22tushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hey, I'm Tushar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 * I'm a CS Sophomore at NIT Bhopal
