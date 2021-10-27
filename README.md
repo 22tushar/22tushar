@@ -12,4 +12,4 @@ Feel free to reach out! :point_up_2:
 
 <br />
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=22tushar&show_icons=true&theme=merko)](https://github.com/22tushar/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=22tushar&show_icons=true&theme=onedark)](https://github.com/22tushar/github-readme-stats)
