@@ -1,8 +1,8 @@
-### Hi there 👋
 
-## Hey, I'm Tushar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* I'm a CS Sophomore at NIT Bhopal
+## Hey, I'm Tushar!  👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+* I'm a EE Sophomore at NIT Bhopal
 * Currently I'm working on my Frontend web development skills and intrested to learn Backend web development
 * I also enjoy Problem solving and Competitive programming
 
