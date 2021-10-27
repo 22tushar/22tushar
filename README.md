@@ -2,15 +2,17 @@
 
 <!--
 **22tushar/22tushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I'm Tushar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Here are some ideas to get you started:
+* I'm a CS Sophomore at NIT Bhopal
+* Currently I'm working on my Frontend web development skills and intrested to learn Backend web development
+* I also enjoy Problem solving and Competitive programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### To know more about me :smile:
+* [LinkedIn](https://www.linkedin.com/in/tushar-gehlot-50502420a/)
+
+Feel free to reach out! :point_up_2:
+
+<br />
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=22tushar&show_icons=true&theme=buefy)](https://github.com/22tushar/github-readme-stats)
