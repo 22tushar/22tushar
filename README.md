@@ -1,8 +1,13 @@
+## Hey, I'm Tushar!  👋 
+* Tech Enthusiast | Web Developer
+* I'm a EE Sophomore at NIT Bhopal
+* Currently I'm working on my web development skills
+* I also enjoy Problem solving and Competitive programming
+* Hobbies : Reading Books 📗📕 | Music 🎧
+### To know more about me :smile:
+* [LinkedIn](https://www.linkedin.com/in/tushar-gehlot-50502420a/)
 
-- 🔭 I’m currently second yr student at NIT Bhopal EE'24.
-- 🌱 I’m currently learning Bash and python scripting for Linux.
-- 📫 How to reach me: [gehlottushar18@gmail.com](mailto:gehlottushar18@gmail.com).
-
+Feel free to reach out! :point_up_2:
 
 <h3 align="center">Languages</h3>
 <p align="center">
