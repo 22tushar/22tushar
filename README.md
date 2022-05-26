@@ -54,7 +54,7 @@ Feel free to reach out! :point_up_2:
   </a>
   
    <a href="https://jquery.com" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-7952B3.svg?style=for-the-badge&logo=jquery&logoColor=white"
+    <img src="https://img.shields.io/badge/jquery-7952B3.svg?style=for-the-badge&logo=jquery&logoColor=green"
       alt="bootstrap"/>
   </a>
   
