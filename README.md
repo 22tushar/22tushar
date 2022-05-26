@@ -53,6 +53,12 @@ Feel free to reach out! :point_up_2:
       alt="bootstrap"/>
   </a>
   
+   <a href="https://jquery.com" target="_blank">
+    <img src="https://img.shields.io/badge/jquery-7952B3.svg?style=for-the-badge&logo=jquery&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+  
+  
 </p>
 
 <h3 align="center">Backend</h3>
