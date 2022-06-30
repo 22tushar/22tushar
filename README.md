@@ -1,6 +1,6 @@
 ## Hey, I'm Tushar!  👋 
 * Tech Enthusiast | Web Developer
-* I'm a EE Sophomore at NIT Bhopal
+* I'm a EE Prefinal year Student at NIT Bhopal
 * Currently I'm working on my web development skills
 * I also enjoy Problem solving and Competitive programming
 * Hobbies : Reading Books 📗📕 | Music 🎧
