@@ -67,6 +67,10 @@ Feel free to reach out! :point_up_2:
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"
+      alt="graphql"/> 
+  </a> 
 </p>
 
 <h3 align="center">Database</h3>
@@ -74,10 +78,6 @@ Feel free to reach out! :point_up_2:
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"
-      alt="graphql"/> 
   </a> 
 </p>
 
