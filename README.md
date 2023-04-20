@@ -67,6 +67,10 @@ Feel free to reach out! :point_up_2:
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
+   <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"
+      alt="nodejs"/> 
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
