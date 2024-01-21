@@ -1,5 +1,5 @@
 ## Hey, I'm Tushar!  👋 
-* Tech Enthusiast | Web Developer
+* Tech Enthusiast | Web Developer | Freelancer
 * I'm a Final year Student at NIT Bhopal
 * Currently I'm working on my web development skills
 * I also enjoy Problem solving and Competitive programming
