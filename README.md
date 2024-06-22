@@ -1,6 +1,6 @@
 ## Hey, I'm Tushar!  👋 
 * Tech Enthusiast | Web Developer | Freelancer
-* I'm a Final year Student at NIT Bhopal
+* Graduated @NIT Bhopal
 * Currently I'm working on my web development skills
 * I also enjoy Problem solving and Competitive programming
 * Hobbies : Reading Books 📗📕 | Music 🎧
