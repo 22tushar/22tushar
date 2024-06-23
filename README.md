@@ -82,6 +82,10 @@ Feel free to reach out! :point_up_2:
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/> 
+</a>
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
@@ -96,6 +100,9 @@ Feel free to reach out! :point_up_2:
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
   </a> 
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="vercel"/> 
+</a>
 </p>
 
 <h3 align="center">Version Control</h3>
@@ -104,10 +111,10 @@ Feel free to reach out! :point_up_2:
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/shubhtrikal" target="_blank">
+  <a href="https://github.com/22tushar" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/shubhtrikal" target="_blank">
+  <a href="https://gitlab.com/22tushar" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
 </p>
